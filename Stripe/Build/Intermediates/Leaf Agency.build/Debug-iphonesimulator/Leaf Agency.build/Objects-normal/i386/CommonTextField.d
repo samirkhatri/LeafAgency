@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Samcom/IPhoneWork/SamirWork/StripeDemo/App/Stripe/Stripe/View/Shared/CommonTextField.m \
-  /Volumes/Samcom/IPhoneWork/SamirWork/StripeDemo/App/Stripe/Stripe/View/Shared/CommonTextField.h
+  /Volumes/Samcom/IPhoneWork/SamirWork/LeafAgency/Stripe/Stripe/View/Shared/CommonTextField.m \
+  /Volumes/Samcom/IPhoneWork/SamirWork/LeafAgency/Stripe/Stripe/View/Shared/CommonTextField.h

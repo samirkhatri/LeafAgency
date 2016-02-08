@@ -49,6 +49,8 @@
         message = @"Please enter password";
     }else if (txtConfirmPassword.text.length <= 0){
         message = @"Please enter confirm password";
+    }else if (![txtPassword.text isEqual:txtConfirmPassword.text]){
+        message = @"Password do not match.Please enter correct password";
     }else if (txtDateOfBirth.text.length <= 0){
         message = @"Please enter date of birth";
     }

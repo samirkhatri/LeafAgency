@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Samcom/IPhoneWork/SamirWork/StripeDemo/App/Stripe/Stripe/Model/Shared/Reachability/Reachability.m \
-  /Volumes/Samcom/IPhoneWork/SamirWork/StripeDemo/App/Stripe/Stripe/Model/Shared/Reachability/Reachability.h
+  /Volumes/Samcom/IPhoneWork/SamirWork/LeafAgency/Stripe/Stripe/Model/Shared/Reachability/Reachability.m \
+  /Volumes/Samcom/IPhoneWork/SamirWork/LeafAgency/Stripe/Stripe/Model/Shared/Reachability/Reachability.h
